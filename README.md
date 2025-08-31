@@ -1,4 +1,4 @@
-#RFID-Based Parking System using Arduino
+# RFID-Based Parking System using Arduino
 Features
 Register up to 10 RFID cards
 Toggle between registration and operation modes using buttons
